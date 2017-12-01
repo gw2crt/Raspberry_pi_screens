@@ -12,8 +12,8 @@
 
 ## WPA/WPA2 secured
 iface wlan0-fullpageos inet manual
-wpa-ssid "BTAS_2.4GHz"
-wpa-psk "fleetfoxes"
+wpa-ssid ""
+wpa-psk ""
 
 ## WEP secured
 #iface wlan0-fullpageos inet manual
@@ -39,7 +39,7 @@ wpa-psk "fleetfoxes"
 #
 # You can then reach the Pi from the system's browser by going to
 #
-#   http://192.168.250.1
+#   
 #
 # or
 #
