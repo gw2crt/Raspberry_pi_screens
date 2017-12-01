@@ -1,0 +1,10 @@
+#!/bin/bash
+export DISPLAY=:0
+
+xset s blank        #activate blank screen
+xset s 30	    # number of seconds to take effect
+
+#xset -dpms         # disable DPMS (Energy Star) features.
+#xset s noblank     # don't blank the video device
+
+

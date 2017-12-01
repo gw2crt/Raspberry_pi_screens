@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sudo rm -rf ~/.cache/chromium/Default/Cache/*spo
+
+pkill chromium
+
